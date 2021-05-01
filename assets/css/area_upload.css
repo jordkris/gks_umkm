@@ -1,0 +1,7 @@
+#getFile {
+  display: none;
+}
+#getFileLabel {
+  display: inline-block;
+  background: blue;
+}
